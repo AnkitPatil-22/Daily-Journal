@@ -1,5 +1,6 @@
 # Daily-Journal
 
+Daily Journal that dynamically creates new paths for each entry using EJS and Express.js
 
 ![journal-home1](https://user-images.githubusercontent.com/71706634/149732189-31658955-8e25-4306-9c6d-02ec2533d327.png)
 
